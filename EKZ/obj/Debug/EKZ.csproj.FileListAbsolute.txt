@@ -1,0 +1,28 @@
+D:\IS1-41\EKZ\EKZ\bin\Debug\EKZ.exe.config
+D:\IS1-41\EKZ\EKZ\bin\Debug\EKZ.exe
+D:\IS1-41\EKZ\EKZ\bin\Debug\EKZ.pdb
+D:\IS1-41\EKZ\EKZ\obj\Debug\MainWindow.g.cs
+D:\IS1-41\EKZ\EKZ\obj\Debug\App.g.cs
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ_MarkupCompile.cache
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ_MarkupCompile.lref
+D:\IS1-41\EKZ\EKZ\obj\Debug\MainWindow.baml
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ.g.resources
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ.Properties.Resources.resources
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ.csproj.GenerateResource.cache
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ.exe
+D:\IS1-41\EKZ\EKZ\obj\Debug\EKZ.pdb
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\bin\Debug\EKZ.exe.config
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\bin\Debug\EKZ.exe
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\bin\Debug\EKZ.pdb
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.csprojAssemblyReference.cache
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\MainWindow.g.cs
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\App.g.cs
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ_MarkupCompile.cache
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ_MarkupCompile.lref
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\MainWindow.baml
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.g.resources
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.Properties.Resources.resources
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.csproj.GenerateResource.cache
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.csproj.CoreCompileInputs.cache
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.exe
+D:\Desktop\Учеба 2022-23\WPF (.NET)\EKZ\EKZ\obj\Debug\EKZ.pdb
